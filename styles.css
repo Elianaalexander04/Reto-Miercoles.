@@ -1,19 +1,26 @@
-body{
-    background-color: rgb(128, 240, 175);
-    }
-    h1{
-    background-color: rgb(0, 70, 128);/*background-color es para color de fondo*/
-
-    color: white;/*color es para aplicar color al texto*/}
+h1{
+    color:lightskyblue
+}
 h2{
-    font-size: 20px;
-    background-color: rgb(145, 255, 0);
-    color: azure;}
-i{
-    color: blueviolet;}
-
-
-
-
-
-
+    color:lightgreen
+}
+p{
+    color:purple
+}
+h3{
+    color:lightgreen
+}
+h4{
+    color:blue
+}
+#encabezado-seis{
+    color:brown
+}
+.text-danger{
+    color:red
+}
+.text-green{
+    color:rgb(43, 226, 73)
+}body{
+    background-color:blueviolet
+}
